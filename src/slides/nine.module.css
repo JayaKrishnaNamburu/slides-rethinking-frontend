@@ -1,0 +1,111 @@
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  padding: 75px;
+  flex-direction: column;
+  flex-wrap: wrap;
+  font-size: 16px;
+  align-items: center;
+  font-family: "Open Sans";
+  justify-content: center;
+  background-color: #1a1818;
+}
+.text {
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-size: 30px;
+  align-self: center;
+}
+.text01 {
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-size: 30px;
+  align-self: center;
+}
+.text02 {
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-size: 30px;
+  align-self: center;
+}
+.text03 {
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-size: 30px;
+  align-self: center;
+}
+.text04 {
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-size: 30px;
+  align-self: center;
+}
+.text05 {
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-size: 30px;
+  align-self: center;
+}
+.text06 {
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-size: 30px;
+  align-self: center;
+}
+.text07 {
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-size: 30px;
+  align-self: center;
+}
+.text08 {
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-size: 30px;
+  align-self: center;
+}
+.text09 {
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-size: 30px;
+  align-self: center;
+}
+.text10 {
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-size: 30px;
+  align-self: center;
+}
+.text11 {
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-size: 30px;
+  align-self: center;
+}
+.text12 {
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-size: 30px;
+  align-self: center;
+}
+.text13 {
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-size: 30px;
+  align-self: center;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "teleport-slides-template",
+  "version": "0.0.0",
+  "description": "A template for exporting components as slides",
+  "author": "teleportHQ",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel": "^1.12.4",
+    "postcss-modules": "^1.4.1"
+  },
+  "dependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-tweet-embed": "^1.2.2"
+  },
+  "scripts": {
+    "start": "yarn parcel index.html",
+    "build": "parcel build index.html"
+  }
+}

@@ -1,0 +1,36 @@
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  padding: 75px;
+  flex-wrap: wrap;
+  font-size: 16px;
+  align-items: center;
+  font-family: 'Open Sans';
+  justify-content: center;
+  background-color: #1a1818;
+}
+.text {
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-size: 45px;
+  align-self: flex-end;
+  text-align: center;
+}
+.text1 {
+  width: 100%;
+  margin: 0;
+  display: block;
+  font-size: 150px;
+  align-self: flex-start;
+  margin-top: 50px;
+  text-align: center;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.text2 {
+  color: #fff;
+  align-self: flex-start;
+}

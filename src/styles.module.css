@@ -1,0 +1,23 @@
+.slider {
+	width: inherit;
+	height: 5px;
+	background-color: #fff;
+	position: fixed;
+	bottom: 0
+}
+
+.progress {
+	height: 5px;
+	border-radius: 8px;
+	position: absolute;
+	background-color: greenyellow;
+}
+
+@keyframes slide {
+	0% {
+		widh: 0%;
+	}
+	100% {
+		width: auto;
+	}
+}

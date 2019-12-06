@@ -1,0 +1,69 @@
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  padding: 75px;
+  flex-wrap: wrap;
+  font-size: 16px;
+  align-items: center;
+  font-family: "Open Sans";
+  justify-content: center;
+  background-color: #1a1818;
+}
+.text {
+  color: #fff;
+  width: 100%;
+  display: block;
+  font-size: 32px;
+  align-self: flex-end;
+  text-align: center;
+  font-family: Tahoma;
+}
+.container1 {
+  width: 100%;
+  align-self: flex-start;
+  box-sizing: border-box;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.text1 {
+  color: #fff;
+  width: 100%;
+  margin: 0;
+  display: block;
+  font-size: 20px;
+  align-self: flex-start;
+  margin-top: 25px;
+  text-align: center;
+  font-family: Tahoma;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.text2 {
+  color: #fff;
+  width: 100%;
+  margin: 0;
+  display: block;
+  font-size: 20px;
+  align-self: flex-start;
+  margin-top: 10px;
+  text-align: center;
+  font-family: Tahoma;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.text3 {
+  color: #fff;
+  width: 100%;
+  margin: 0;
+  display: block;
+  font-size: 20px;
+  align-self: flex-start;
+  margin-top: 10px;
+  text-align: center;
+  font-family: Tahoma;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
