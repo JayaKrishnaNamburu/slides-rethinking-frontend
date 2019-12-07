@@ -4794,6 +4794,11 @@ react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.11.0.tgz#b85dfecd48ad1ce469ff558a882ca8e8313928fa"
   integrity sha512-gbBVYR2p8mnriqAwWx9LbuUrShnAuSCNnuPGyc7GJrMVQtPDAh8iLpv7FRuMPFb56KkaVZIYSz1PrjI9q0QPCw==
 
+react-tweet-embed@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/react-tweet-embed/-/react-tweet-embed-1.2.2.tgz#b518510a6e6ef17609f9c9b16bc4775624730d8a"
+  integrity sha512-Y932BlSaJsDUsKDucC2opzzd+uhc0YNhrlTa/4Beb2be1od+AjLGo6Fhuo2wPT0D+fF4VTXOyoZyA8Yc88RdYA==
+
 react@^16.11.0:
   version "16.11.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.11.0.tgz#d294545fe62299ccee83363599bf904e4a07fdbb"
@@ -5125,9 +5130,9 @@ send@0.17.1:
     statuses "~1.5.0"
 
 serialize-to-js@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/serialize-to-js/-/serialize-to-js-3.0.0.tgz#1fd8736744819a4df29dc85e9d04a44a4984edc3"
-  integrity sha512-WdGgi0jGnWCQXph2p3vkxceDnTfvfyXfYxherQMRcZjSaJzMQdMBAW6i0nojsBKIZ3fFOztZKKVbbm05VbIdRA==
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/serialize-to-js/-/serialize-to-js-3.0.1.tgz#7bece9cb910c5ee1433f56500db4a5303bca6a02"
+  integrity sha512-TokHD6rY0yQxMmZCjeL8Oj+XuQK6uEx8JnBjt7PuqwWa2qY79Wb/KyhEDduTUC8Gl3S7c40jefWve7f5t4L8Lw==
 
 serve-static@^1.12.4:
   version "1.14.1"
